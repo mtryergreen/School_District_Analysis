@@ -58,6 +58,13 @@ Replacing the ninth graders' scores brings the averages of Thomas High School's 
 - Scores by school size: changes were barely visible
 - Scores by school type: While charter schools generally performed a few points higher than district schools, changes outside of Thomas High School were neglegible
 
+Below are updated math and reading scores per grade per school. Thomas High School's 9th grade class has been nullified in both. 
+
+<img width="449" alt="Screen Shot 2021-11-14 at 6 41 28 AM" src="https://user-images.githubusercontent.com/89936913/141685919-a9a48479-17d8-4a9b-b575-a892d35892c6.png">
+
+<img width="436" alt="Screen Shot 2021-11-14 at 6 42 17 AM" src="https://user-images.githubusercontent.com/89936913/141685949-fb352c7a-fab3-4330-a701-de76effc1179.png">
+
+
 
 # Summary: 
 ## Summarizing four changes after the data was changes for Thomas High School:

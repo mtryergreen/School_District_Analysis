@@ -6,6 +6,7 @@
 ## Purpose
 The purpose of this challenge is to fix the school district analysis in the wake of academic dishonesty while still conducting our analysis through the metrics of: school budget, per student capita, average math and reading scores, the passing percent for math and reading, and the overall passing percentage for students. 9th graders from Thomas High School have reportedly been submitting inaccurate grades, therefore these need to be discounted with NAs. Once these grades are replaced, we can carry on with the analysis. 
 
+# District Summary
 
 ## How is the district summary affected by changes to the data?
 Almost all of the changes in the district summary were very small, less than 1% of a full percentage. 
@@ -33,6 +34,7 @@ Overall passing percentage was neglegible.
 
 
 # School Summary Analysis
+
 ## How is the school summary affected?
 
 The school summaries were more affected by the changes in data. Thomas High School originally had an overall passing rate of around 91%, which was adjusted down to 65% after all the 9th grade students were removed from the set. 
